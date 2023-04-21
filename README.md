@@ -1,6 +1,5 @@
-#Probando
+#Hola_Mundo i
 
-##Estoy probando github
+##Practicas_para_las_pruebas 
 
-
-Estos son ejercicios de Hola Mundo en diferentes lenguajes 
+Voy a hacer hola mundo en distintos lenguajes informaticos.  
