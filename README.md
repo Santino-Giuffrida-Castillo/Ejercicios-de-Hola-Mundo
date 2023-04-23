@@ -1,5 +1,2 @@
-#Hola_Mundo i
-
-##Practicas_para_las_pruebas 
-
+#Hola_Mundo
 Voy a hacer hola mundo en distintos lenguajes informaticos.  
