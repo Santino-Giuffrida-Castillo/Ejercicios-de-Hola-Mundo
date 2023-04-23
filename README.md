@@ -1,2 +1,2 @@
-#Hola_Mundo
+#HolaMundo
 Voy a hacer hola mundo en distintos lenguajes informaticos.  
